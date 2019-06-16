@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67a9b3db-eb0f-41ba-93a3-897e1fb92ee3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/css/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/css/lightbox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/js/lightbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contacts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listings/choices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listings/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/base_site.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/listings/listing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/listings/listings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/listings/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partial/_alert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partial/_navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partial/_topbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partial/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/real-estate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/real-estate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btre/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/btre/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btre/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/btre/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="67a9b3db-eb0f-41ba-93a3-897e1fb92ee3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,12 +217,12 @@
       <workItem from="1560583914685" duration="10469000" />
       <workItem from="1560607360488" duration="3152000" />
       <workItem from="1560619731298" duration="6552000" />
-      <workItem from="1560663454119" duration="5509000" />
+      <workItem from="1560663454119" duration="5829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53067000" />
+    <option name="totallyTimeSpent" value="53387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
